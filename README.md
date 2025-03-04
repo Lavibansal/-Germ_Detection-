@@ -4,11 +4,10 @@
 The **Smart Hand Hygiene Monitoring & Germ Detection System** enhances hand hygiene compliance in healthcare settings by combining **IoT-enabled smart dispensers** with **AI-powered germ detection**. This system ensures that healthcare workers follow hygiene protocols, reducing **healthcare-associated infections (HAIs)** and improving **patient safety**. It also provides **before and after cleanliness analysis** using **image processing** to measure germ reduction.  
 
 ## ⚙️ How It Works
--1️⃣ Upload two images (before cleaning and after cleaning)
--2️⃣ AI processes images using grayscale conversion, thresholding, and 
-   contour detection
--3️⃣ Computes a cleanliness score (%)
--4️⃣ Displays germ-affected areas using visual markers
+-1️⃣ Upload two images (before cleaning and after cleaning)  
+-2️⃣ AI processes images using grayscale conversion, thresholding, and contour detection  
+-3️⃣ Computes a cleanliness score (%)  
+-4️⃣ Displays germ-affected areas using visual markers  
 
 ## 🛠️ Tech Stack
 -Frontend: HTML, CSS, JavaScript
@@ -23,9 +22,9 @@ The **Smart Hand Hygiene Monitoring & Germ Detection System** enhances hand hygi
 -✅ Cost Savings: Fewer infections = lower treatment costs.  
 
 ## ⚠️ Challenges & Solutions
-- **🙅 Resistance to Change **→ Implement training & awareness programs.  
-- **⚙️ Technical Issues **→ Ensure regular maintenance & software updates.  
-- **🔐 Data Privacy Concerns **→ Use encrypted storage & compliance measures.  
+- 🙅 Resistance to Change→ Implement training & awareness programs.  
+- ⚙️ Technical Issues → Ensure regular maintenance & software updates.  
+- 🔐 Data Privacy Concerns → Use encrypted storage & compliance measures.  
 
 ## 🚀 Setup & Installation  
 ```bash
