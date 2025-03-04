@@ -23,9 +23,9 @@ The **Smart Hand Hygiene Monitoring & Germ Detection System** enhances hand hygi
 -✅ Cost Savings: Fewer infections = lower treatment costs.  
 
 ## ⚠️ Challenges & Solutions
--**🙅 Resistance to Change **→ Implement training & awareness programs.
--**⚙️ Technical Issues **→ Ensure regular maintenance & software updates.
--**🔐 Data Privacy Concerns **→ Use encrypted storage & compliance measures.
+- **🙅 Resistance to Change **→ Implement training & awareness programs.  
+- **⚙️ Technical Issues **→ Ensure regular maintenance & software updates.  
+- **🔐 Data Privacy Concerns **→ Use encrypted storage & compliance measures.  
 
 ## 🚀 Setup & Installation  
 ```bash
