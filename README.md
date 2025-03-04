@@ -3,29 +3,30 @@
 ## 📌 Overview  
 The **Smart Hand Hygiene Monitoring & Germ Detection System** enhances hand hygiene compliance in healthcare settings by combining **IoT-enabled smart dispensers** with **AI-powered germ detection**. This system ensures that healthcare workers follow hygiene protocols, reducing **healthcare-associated infections (HAIs)** and improving **patient safety**. It also provides **before and after cleanliness analysis** using **image processing** to measure germ reduction.  
 
-##⚙️ How It Works
-1️⃣ Upload two images (before cleaning and after cleaning)
-2️⃣ AI processes images using grayscale conversion, thresholding, and contour detection
-3️⃣ Computes a cleanliness score (%)
-4️⃣ Displays germ-affected areas using visual markers
+## ⚙️ How It Works
+-1️⃣ Upload two images (before cleaning and after cleaning)
+-2️⃣ AI processes images using grayscale conversion, thresholding, and 
+   contour detection
+-3️⃣ Computes a cleanliness score (%)
+-4️⃣ Displays germ-affected areas using visual markers
 
-🛠️ Tech Stack
-Frontend: HTML, CSS, JavaScript
-Backend: Flask (Python)
-Libraries: OpenCV, NumPy
+## 🛠️ Tech Stack
+-Frontend: HTML, CSS, JavaScript
+-Backend: Flask (Python)
+-Libraries: OpenCV, NumPy
 
 
-🎯 Expected Impact
-✅ Hospitals: Reduced HAIs, improved regulatory compliance.
-✅ Healthcare Workers: Increased accountability & hygiene adherence.
-✅ Patients: Lower risk of infections & improved safety.
-✅ Cost Savings: Fewer infections = lower treatment costs.
+## 🎯 Expected Impact
+-✅ Hospitals: Reduced HAIs, improved regulatory compliance.
+-✅ Healthcare Workers: Increased accountability & hygiene adherence.
+-✅ Patients: Lower risk of infections & improved safety.
+-✅ Cost Savings: Fewer infections = lower treatment costs.
 
-⚠️ Challenges & Solutions
-🙅 Resistance to Change → Implement training & awareness programs.
-⚙️ Technical Issues → Ensure regular maintenance & software updates.
-🔐 Data Privacy Concerns → Use encrypted storage & compliance measures.
-🚀 Setup & Installation
+## ⚠️ Challenges & Solutions
+-🙅 Resistance to Change → Implement training & awareness programs.
+-⚙️ Technical Issues → Ensure regular maintenance & software updates.
+-🔐 Data Privacy Concerns → Use encrypted storage & compliance measures.
+-🚀 Setup & Installation
 bash
 Copy
 Edit
