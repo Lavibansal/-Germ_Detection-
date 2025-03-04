@@ -17,25 +17,23 @@ The **Smart Hand Hygiene Monitoring & Germ Detection System** enhances hand hygi
 
 
 ## 🎯 Expected Impact
-✅ Hospitals: Reduced HAIs, improved regulatory compliance.
-✅ Healthcare Workers: Increased accountability & hygiene adherence.
-✅ Patients: Lower risk of infections & improved safety.
-✅ Cost Savings: Fewer infections = lower treatment costs.
+-✅ Hospitals: Reduced HAIs, improved regulatory compliance.  
+-✅ Healthcare Workers: Increased accountability & hygiene adherence.  
+-✅ Patients: Lower risk of infections & improved safety.  
+-✅ Cost Savings: Fewer infections = lower treatment costs.  
 
 ## ⚠️ Challenges & Solutions
-🙅 Resistance to Change → Implement training & awareness programs.
-⚙️ Technical Issues → Ensure regular maintenance & software updates.
-🔐 Data Privacy Concerns → Use encrypted storage & compliance measures.
-🚀 Setup & Installation
-bash
-Copy
-Edit
+-**🙅 Resistance to Change **→ Implement training & awareness programs.
+-**⚙️ Technical Issues **→ Ensure regular maintenance & software updates.
+-**🔐 Data Privacy Concerns **→ Use encrypted storage & compliance measures.
+
+## 🚀 Setup & Installation  
+```bash
 git clone https://github.com/yourusername/hand-hygiene-system.git
 cd hand-hygiene-system
 pip install -r requirements.txt
 python app.py
-📌 Visit: http://127.0.0.1:5000
-
+```
 🤝 Contributions & Feedback
 Contributions are welcome! Fork, star, or submit pull requests to improve the system.
 GitHub Repository: [https://github.com/Lavibansal/-Germ_Detection-]
